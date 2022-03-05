@@ -93,5 +93,7 @@ int main() {
      else { cout << "what did you write?, that's not a degree scale at ALL!";}
     }
 
+    else { cout <<"--------------output----------------"<< endl << endl<<"what is that I don't get it? is it a joke?!" << endl << endl;}
+
     return 0;
 }
